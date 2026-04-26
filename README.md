@@ -1,7 +1,7 @@
-## Nama: Revaldi Enzha Agviandry P
-## NIM: H1D024094
-## Shift KRS: C
-## Shift Baru: C
+### Nama: Revaldi Enzha Agviandry P
+### NIM: H1D024094
+### Shift KRS: C
+### Shift Baru: C
 
 # Sistem Pakar Diagnosa Gangguan Jaringan Internet
 
